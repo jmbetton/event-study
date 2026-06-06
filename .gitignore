@@ -2,8 +2,11 @@ __pycache__/
 *.pyc
 .DS_Store
 *.ipynb_checkpoints
-returns_data.csv
 .env
+*.env
+.env.*
+returns_data.csv
 nkla_prices.csv
 spx_prices.csv
+.vscode/
 
