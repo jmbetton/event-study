@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.ipynb_checkpoints
+returns_data.csv
+.env
+nkla_prices.csv
+spx_prices.csv
+
